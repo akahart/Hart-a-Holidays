@@ -1,0 +1,51 @@
+# Hart's Holidays - Quick Setup Reference
+
+## 📦 What You've Got
+All files for your PWA are ready to deploy! Here's what each file does:
+
+- **index.html** - Main app structure
+- **app.js** - App logic & Firebase integration (⚠️ YOU NEED TO EDIT THIS)
+- **styles.css** - Beach-themed styling
+- **manifest.json** - PWA configuration
+- **service-worker.js** - Offline support
+- **icon-192.png** - App icon (small)
+- **icon-512.png** - App icon (large)
+- **README.md** - Full deployment guide
+
+## ⚡ 3-Step Quick Start
+
+### 1️⃣ Setup Firebase (5 min)
+1. Go to https://console.firebase.google.com/
+2. Create project "harts-holidays"
+3. Add web app, copy the config
+4. Create Firestore database
+5. Set security rules to allow read/write
+
+### 2️⃣ Configure App
+1. Open **app.js** in a text editor
+2. Find lines 2-8 (the firebaseConfig)
+3. Replace with YOUR Firebase config
+4. Save the file
+
+### 3️⃣ Deploy
+1. Create GitHub account
+2. Create new repository "harts-holidays" (public)
+3. Upload all files
+4. Enable GitHub Pages in Settings
+5. Your app URL: `https://YOUR_USERNAME.github.io/harts-holidays`
+
+## 📱 Install on iPhone
+1. Open Safari and go to your app URL
+2. Tap Share → Add to Home Screen
+3. Done! Repeat on second iPhone
+
+## 🔐 Admin Access
+- Password: **Hilife69!**
+- Tap ⚙️ icon to access admin panel
+
+## 🆘 Need Help?
+Read the full **README.md** for detailed instructions and troubleshooting!
+
+---
+
+**IMPORTANT:** Don't forget to edit `app.js` with your Firebase config!

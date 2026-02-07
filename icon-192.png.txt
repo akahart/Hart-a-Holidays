@@ -1,0 +1,7 @@
+PLACEHOLDER: You'll need to create icon-192.png and icon-512.png
+These should be 192x192 and 512x512 PNG images with a travel/beach theme.
+
+Quick option: Use any online icon generator with the emoji ✈️ or 🏝️
+Or create simple colored squares with the emojis in the center.
+
+For now, the app will work without icons, but you'll want to add them before installing on iPhones.
